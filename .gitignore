@@ -169,4 +169,4 @@ cython_debug/
 .vs/
 *.user
 /SuperOpsImport.pyproj
-/src/getClientSites.py
+/src/util
