@@ -1,7 +1,8 @@
 # SuperOpsImport
 
 To Import a local Directory filled with .html files to your SuperOps IT Documentation
-Ideally for Confluence
+<br>
+Ideally for Confluence Exports (only tested with those)
 
 # STATUS: Upload works, parsers don't
 
