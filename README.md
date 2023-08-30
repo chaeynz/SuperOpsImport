@@ -19,6 +19,7 @@ Ideally for Confluence
 html title tags for automatic Document Title in Super Ops
 
 ## Expected Directory Structure
+<pre>
 ./
 ├── style/
 │   └──  site.css
@@ -29,3 +30,4 @@ html title tags for automatic Document Title in Super Ops
 │   ├── thumbnails
 │   └── ...
 └── ...
+</pre>
