@@ -4,7 +4,10 @@ To Import a local Directory filled with .html files to your SuperOps IT Document
 <br>
 Ideally for Confluence Exports (only tested with those)
 
-# STATUS: Upload works, parsers don't
+# STATUS: UNFINISHED
+* This is a rough structure that could be finished
+* Check open Issues to see what's missing
+* I don't have access to the SuperOps API anymore, so I can't finish this
 
 # How to use
 ## Requirements
