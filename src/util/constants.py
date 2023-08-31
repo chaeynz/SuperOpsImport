@@ -1,11 +1,11 @@
-from globals import global_apikey, global_customersubdomain
+from globals import global_api_token, global_customersubdomain
 
 API_REQUEST_LIMIT_PER_MINUTE = 800
 
 URL = 'https://api.superops.ai/msp'
 
 HEADERS = {
-'Authorization': 'Bearer ' + global_apikey,
+'Authorization': 'Bearer ' + global_api_token,
 'Content-Type': 'application/json',
 'Customersubdomain': global_customersubdomain,
 }

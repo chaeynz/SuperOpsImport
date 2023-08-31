@@ -57,7 +57,7 @@ def testTypeId(itdoc_categories):
     return match_found
 
 def testClientId(response_client_list):
-    response_client_list_json = clients.json
+    response_client_list_json = response_client_list.json
     clients = response_client_list_json.get('data', {}).get('getClientList', [])
 
     # Initialize a flag to false, which will be set true if a match is found
@@ -72,6 +72,7 @@ def testClientId(response_client_list):
     return match_found
     
 def testSiteId(clientid, sites):
+    response_site_list_json = sites.json
     
 
 
