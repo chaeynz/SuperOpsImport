@@ -159,14 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/src/getClients.py
-/src/INFO.txt
-/api_key.txt
-/customer_subdomain.txt
 /globals.json
 /GraphQL_Import_SuperOps.pyproj
 *.sln
 .vs/
 *.user
 /SuperOpsImport.pyproj
-/src/util
+/src/util/CssParser.py
